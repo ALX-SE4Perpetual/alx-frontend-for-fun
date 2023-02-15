@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 
+"""
+Script that markdown html using python
+"""
+
 import sys
 import os
 import markdown
